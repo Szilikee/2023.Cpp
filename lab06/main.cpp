@@ -1,0 +1,1 @@
+void Matrix::printMatrix(ostream& os = cout) const
